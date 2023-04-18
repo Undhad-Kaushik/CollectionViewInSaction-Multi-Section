@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Bollywood-e373ffa6e4cc4394a1e0a1c9fe775e5c.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

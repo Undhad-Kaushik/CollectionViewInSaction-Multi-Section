@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "tere-naam-most-popular-south-indian-movie-remakes-in-bollywood_8_11zon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "India_OTT_collage_1672313027749_1672313060659_1672313060659.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
